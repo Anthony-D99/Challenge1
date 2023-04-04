@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Consolidated lines 89-135 by changing class names to "benefit-all" */
 .benefit-all {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Consolidatred lines 137-189 by changing class names to "main-content"*/
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
