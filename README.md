@@ -1,1 +1,1 @@
-<img src="assets/images/horiseon-sc.png" alt="Screenshot of webpage">
+![Image of webpage](Develop/assets/images/horiseon-sc.png)
