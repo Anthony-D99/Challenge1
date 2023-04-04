@@ -1,1 +1,1 @@
-<img src="./challene1/Develop/assets/images/horiseon-sc.png"/>
+<img src="assets/images/horiseon-sc.png" alt="Screenshot of webpage">
